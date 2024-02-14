@@ -1,0 +1,28 @@
+html {
+  background-color: #680a0a;
+}
+
+body {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  padding: 25px 75px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+h1 {
+  color: maroon;
+}
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  color: maroon;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
